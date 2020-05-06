@@ -2,6 +2,7 @@
  * @author Tyler Ciapala-Hazlerig
  * CSE 143 Data Structures
  * Huffman Coding Project: HuffmanNode
+ * 5/5/2020
  */
 
 public class HuffmanNode implements Comparable<HuffmanNode> {

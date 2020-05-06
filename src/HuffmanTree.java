@@ -2,6 +2,7 @@
  * @author Tyler Ciapala-Hazlerig
  * CSE 143 Data Structures
  * Huffman Coding Project: HuffmanTree
+ * 5/5/2020
  */
 
 import java.io.*;
